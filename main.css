@@ -15,7 +15,7 @@ body {
 }
 
 .wrapper {
-  padding-top: 4rem;
+  padding-top: 1rem;
   width: 90%;
   margin: 0 auto;
   text-align: center;
@@ -23,7 +23,8 @@ body {
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 2.5rem; 
+  font-size: 1.5rem; 
+  color: blue;
 }
 
 .author {
