@@ -23,7 +23,7 @@ body {
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 1.5rem; 
+  font-size: 1.7rem; 
   color: orange;
 }
 
@@ -32,4 +32,5 @@ body {
   font-size: 1.5rem;
   font-style: italic;
   text-align: right;
+  color: orange;
 }
